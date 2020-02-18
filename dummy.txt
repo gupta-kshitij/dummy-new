@@ -1,2 +1,2 @@
 dummy
-update dummy.txt from github
+file to merge
